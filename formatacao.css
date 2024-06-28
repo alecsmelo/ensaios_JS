@@ -1,0 +1,10 @@
+body h1, h4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0;
+    color: rgb(34, 90, 8);
+}
+body p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0;
+    color: rgb(255, 38, 0);
+}
